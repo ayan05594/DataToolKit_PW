@@ -2,7 +2,7 @@
 
 -- QUESTION 1
 ---------------------------------------------------------------------------------
-use avinesh_masih;
+use ayan_db;
 CREATE TABLE employees (
     emp_id INT NOT NULL PRIMARY KEY,  -- Primary Key, should not be NULL
     emp_name TEXT NOT NULL,           -- Employee name should not be NULL
